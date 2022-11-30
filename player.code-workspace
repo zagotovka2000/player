@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "player",
+			"path": "."
+		},
+		{
+			"name": "app",
+			"path": "../AndroidStudioProjects/NewMediaPlayerMini/app"
+		},
+		{
+			"name": "build",
+			"path": "../AndroidStudioProjects/NewMediaPlayerMini/build"
+		},
+		{
+			"name": "gradle",
+			"path": "../AndroidStudioProjects/NewMediaPlayerMini/gradle"
+		}
+	],
+  "settings": {}
+}

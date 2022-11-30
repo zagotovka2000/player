@@ -1,1 +1,1 @@
-# player
+# simple audio player
